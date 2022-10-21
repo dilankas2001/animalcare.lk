@@ -65,6 +65,18 @@ class _MyHomePageState extends State<MyHomePage> {
                   fontSize: 25,
                 ),
               ),
+              SizedBox(height: 452),
+              SizedBox(
+                width: 351,
+                height: 36,
+                child: Text(
+                  "Design By GBS SOFT Sri Lanka",
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 24,
+                  ),
+                ),
+              ),
 
             ],
           ),
