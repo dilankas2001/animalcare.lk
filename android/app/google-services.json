@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477487933783",
+    "project_id": "animalcarelk",
+    "storage_bucket": "animalcarelk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477487933783:android:20b708419613078bd5f612",
+        "android_client_info": {
+          "package_name": "com.example.animalcarelk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477487933783-j4f130llsue8ed8fmqbqminan4ob402m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkjf36_8ob0H43sXs-QR3cZumGy7c2gCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477487933783-j4f130llsue8ed8fmqbqminan4ob402m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
