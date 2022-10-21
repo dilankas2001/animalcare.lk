@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 width: 351,
                 height: 36,
                 child: Text(
-                  "Design By GBS SOFT Sri Lanka",
+                  "Design By GBS SOFT Sri Lanka ",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 24,
